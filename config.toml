@@ -76,7 +76,7 @@ socials = [
 allowed_domains = [
     { directive = "font-src", domains = ["'self'", "data:", "fonts.gstatic.com"] },
     { directive = "img-src", domains = ["'self'", "https://*", "data:"] },
-    { directive = "script-src", domains = ["'self'", "ws://*"] },
+    { directive = "script-src", domains = ["'self'"] },
     { directive = "style-src", domains = ["'self'", "fonts.googleapis.com"] },
     { directive = "frame-src", domains = ["player.vimeo.com", "https://www.youtube-nocookie.com"] },
 ]
