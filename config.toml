@@ -93,7 +93,7 @@ custom_subset = true
 [extra.giscus]
 enabled_for_all_posts = false  # Enables giscus on all posts. It can be enabled on individual posts by setting `giscus = true` in the [extra] section of a post's front matter.
 automatic_loading = true  # If set to false, a "Load comments" button will be shown.
-repo = "ukint-vs/tabi-comments"
+repo = "ukint-vs/ukint-vs.github.io"
 repo_id = "MDEwOlJlcG9zaXRvcnkzNDkzMjI1Nzc="  # Find this value in https://giscus.app/
 category = "Announcements"
 category_id = "DIC_kwDOFNI9Uc4CYOUr"  # Find this value in https://giscus.app/
