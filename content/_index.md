@@ -10,4 +10,4 @@ section_path = "blog/_index.md"
 max_posts = 4
 +++
 
-Welcome to my devlog! This is a space where I share my knowledge and experience as a Rust and Substrate developer. Here, you'll find in-depth discussions on Rust programming, Substrate blockchain development, and various technical challenges I encounter in my work.
+Welcome to my devlog! This is a space where I share my knowledge and experience that I'm tired of keeping in my head as a Rust and Substrate developer.
