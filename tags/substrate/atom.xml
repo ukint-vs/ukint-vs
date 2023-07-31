@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet href="feed_style.xsl" type="text/xsl"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>~&#x2F;ukint-vs - substrate</title>
+    <link href="https://ukint-vs.github.io/tags/substrate/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://ukint-vs.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2023-07-23T00:00:00+00:00</updated>
+    <id>https://ukint-vs.github.io/tags/substrate/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Profiling WASM Runtime in Substrate Using Perf</title>
+        <published>2023-07-23T00:00:00+00:00</published>
+        <updated>2023-07-23T00:00:00+00:00</updated>
+        <author>
+            <name>ukint-vs</name>
+        </author>
+        <link rel="alternate" href="https://ukint-vs.github.io/blog/wasmtime-substrate-profiling/" type="text/html"/>
+        <id>https://ukint-vs.github.io/blog/wasmtime-substrate-profiling/</id>
+        <summary type="html">This post will guide you through webassembly profiling using perf.</summary>
+        </entry>
+</feed>
